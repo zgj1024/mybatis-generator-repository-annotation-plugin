@@ -1,4 +1,4 @@
-#mybatis-generator-repository-annotation-plugin
+# mybatis-generator-repository-annotation-plugin
 
 add repository annotation to generation object ，like this
 
